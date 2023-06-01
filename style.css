@@ -3,7 +3,7 @@
     margin-left: auto;
     margin-right: auto;
     display: block;
-    border: 3px solid #BB99DD;
+    border: 3px solid #01C38D;
     border-radius: 50%;
     width: 115px;
     height: 115px;
@@ -21,8 +21,8 @@ button {
     height: 50px;
     width: 60%;
     background: white;
-    color: #BB99DD;
-    border-color: #BB99DD;
+    color: #01C38D;
+    border-color: #01C38D;
     font-size: 18px;
     border-radius: 10px;
     margin-bottom: 20px;
