@@ -30,7 +30,7 @@ button {
 }
 
 button:hover {
-    background: red;
+    background: #3F448C;
 }
 
 .container {
@@ -40,7 +40,7 @@ button:hover {
 }
 
 .socialicon:hover {
-    color: red;
+    color: #3F448C;
 }
 
 body {
