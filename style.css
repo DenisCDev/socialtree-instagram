@@ -46,3 +46,10 @@ button:hover {
 body {
     background-color: whitesmoke;
 }
+
+fullsite {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
