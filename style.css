@@ -20,7 +20,7 @@ button {
     display: block;
     height: 50px;
     width: 60%;
-    background: whitesmoke;
+    background: white;
     color: #01C38D;
     border-color: #01C38D;
     font-size: 18px;
@@ -32,4 +32,8 @@ button {
     margin-top: 0.5rem;
     font-size: 2.5rem;
     color: #01C38D;
+}
+
+body {
+    background-color: whitesmoke;
 }
